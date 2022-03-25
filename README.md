@@ -8,5 +8,7 @@
 1. book
 2. notebook
 3. textbook
+4. folders
 4. ----------
 5. this is what you will need for school 
+4. 
